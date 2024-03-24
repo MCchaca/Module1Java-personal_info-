@@ -15,7 +15,7 @@ class Main{  //Main classes are what are first run in a program.
   first = "Billy"
   last = "Bob"
   address = "123 tinstafl lane"
-  city = "moon+
+  city = "moon"
   zip = "424242"
 
   //now print the variables to screen

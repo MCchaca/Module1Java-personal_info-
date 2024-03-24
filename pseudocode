@@ -1,0 +1,33 @@
+//pseudocode is easily understood code for any average reader to grasp what is happening in a program
+//i will think of it as caveman code
+
+//PURPOSE: Define a persons variables, then print variables
+
+BEGIN
+
+import scanner //from a google search, this is how inputs(what a user types in) are read in JAva
+
+class Main{  //Main classes are what are first run in a program. 
+  public static void main(String[]) args); //from a search, this keys in the computer to where to start the program, still kind of confusing
+  //caveman time
+
+  //first define variables
+  first = "Billy"
+  last = "Bob"
+  address = "123 tinstafl lane"
+  city = "moon+
+  zip = "424242"
+
+  //now print the variables to screen
+  //from a search in Java, printing is a little more complex than python because it has to incluide "+ 'variable name'"
+  print "first" + first
+  print "last" + last
+  print "address" + address
+  print "city" + city
+  print "zip" + zip
+}
+
+END
+
+//program should be done
+//CONFUSION PARTS: void main???     how to do user inputs and outputs?     printing those user variables?? 

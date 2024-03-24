@@ -2,6 +2,7 @@
 
 Demonstrate understanding of basic programming concepts by:
 
+
 Developing pseudocode that prints the following information for a fictional person:
 First name
 Last name
